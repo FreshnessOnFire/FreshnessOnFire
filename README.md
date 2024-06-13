@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreshnessOnFire
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning C, Java and Julia
+- 🔠Matlab & Simulink enthusiast
 
 <!---
 FreshnessOnFire/FreshnessOnFire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
